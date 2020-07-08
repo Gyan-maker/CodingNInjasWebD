@@ -2,16 +2,14 @@ html{
 	font-size: 30px;
 }
 #div1{
-	height: 4rem; 
-	/*75vh; */
-	/*200px;*/
-	width: 6rem;
-	 /*100vh;*/
-	/*200px;*/
-	background-color: blue;
-}
-#div2{
-	height: 50%;
+	height: 200px;
 	width: 50%;
+	min-width: 150px;
 	background-color: cyan;
+	border: 2px solid blue;
+	/*color: red;*/
+	/*padding: 2px;*/
+	/*margin: 4px;*/
+	/*box-sizing: border-box;*/
+	overflow: auto;
 }
